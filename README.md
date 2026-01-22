@@ -21,7 +21,7 @@ My analysis revealed that service ratings remain stable around **3.2** regardles
 
 ---
 
-## 🏁 Strategic Recommendations
+## Recommendations
 Based on the data, I propose the following solutions for an Analyst Trainee to implement:
 1. **Systemic QC Improvement:** Focus on reducing the 46% baseline refund rate, which suggests a platform-wide technical or logistics error rather than a category-specific one.
 2. **Logistics Optimization:** Since small delays don't hurt ratings, implementing **batch-delivery** could reduce operational costs while maintaining current satisfaction levels.
